@@ -1,5 +1,5 @@
 # Breakout
-## class Env(object), class Wrapper(Env) , class Box(Space), class Preprocess Atari(Observation Wrapper) and class FrameBuffer(Wrapper) : necessary "class"  from OpenAI,  to make this project work well
+## class Env(object), class Wrapper(Env) , class Box(Space), class Preprocess Atari(Observation Wrapper) and class FrameBuffer(Wrapper) : They are necessary classes extracted from OpenAI, for this project to function well
 
 
 ![](https://thumbs.gfycat.com/FaroffSmugGenet-size_restricted.gif)
